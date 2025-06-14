@@ -1,0 +1,146 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: Katalog pośredni (x64\Debug\) zawiera pliki udostępnione z innego projektu (szablon2vs17.vcxproj). Może to spowodować niepoprawne zachowanie podczas oczyszczania i ponownej kompilacji.
+  main.cpp
+E:\donkej kong\main.cpp(294,31): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(296,30): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(300,30): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(302,31): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(306,31): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(308,30): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(314,30): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(316,29): warning C4267: "=": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(293,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(299,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(305,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(310,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(313,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(548,82): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(548,66): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(548,39): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(553,25): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(601,128): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(601,113): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(601,86): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(601,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(605,127): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(605,112): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(605,85): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(605,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(609,128): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(609,113): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(609,86): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(609,49): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(615,126): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(615,111): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(615,84): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(615,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(625,116): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(625,101): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(625,79): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(625,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(629,117): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(629,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(629,80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(629,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(637,126): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(637,111): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(637,84): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(637,47): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(641,127): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(641,112): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(641,85): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(641,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(654,127): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(654,112): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(654,85): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(654,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(658,117): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(658,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(658,80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(658,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(662,117): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(662,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(662,80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(662,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(666,127): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(666,112): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(666,85): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(666,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(681,127): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(681,112): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(681,85): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(681,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(685,117): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(685,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(685,80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(685,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(689,117): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(689,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(689,80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(689,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(694,117): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(694,102): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(694,80): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(694,48): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(706,36): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(708,36): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(714,36): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(716,36): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(552,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(705,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(707,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(713,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(715,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(719,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(731,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(827,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(833,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(839,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(846,23): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(853,23): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(860,23): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(866,23): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(890,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(940,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(989,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1037,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1095,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1144,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1200,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1247,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1305,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1353,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1409,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1457,34): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1553,25): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1574,24): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1605,43): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1643,43): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1684,43): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1726,43): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1768,43): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(1804,43): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2053,49): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2052,5): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2105,54): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2105,26): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2104,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2123,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2131,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2137,10): warning C4996: 'fscanf': This function or variable may be unsafe. Consider using fscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2166,40): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2169,40): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2172,40): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2165,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2168,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2171,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2239,20): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2283,40): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2297,41): warning C4267: "argument": konwersja z "size_t" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2282,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2296,4): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\donkej kong\main.cpp(2594,64): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2642,38): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2647,37): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2655,42): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+E:\donkej kong\main.cpp(2660,44): warning C4244: "argument": konwersja z "double" do "int", możliwa utrata danych
+  szablon2vs17.vcxproj -> E:\donkej kong\x64\Debug\Donkey_kong.exe
